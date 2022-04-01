@@ -1,11 +1,11 @@
 {
-  "ownerNumber": "62855xxx@s.whatsapp.net",
-  "botName": "Baby Bot",
-  "ownerName": "Ramlan ID",
-  "footer": "*2022 © BABYBOT*",
+  "ownerNumber": "6283871229653@s.whatsapp.net",
+  "botName": "Alan Botz",
+  "ownerName": "Alan Gz",
+  "footer": "*2022 © Created By Alan Gz*",
   "apikey": "BELI ATUH",
   "pathThumb": "./media/logo.jpg",
-  "sessionName": "ramlanid",
+  "sessionName": "AlanBotz",
   "limitCount": 30,
   "gamewaktu": 60,
   "gcount": {
